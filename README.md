@@ -1,4 +1,4 @@
-d8a3975be4598d50925a6d1a6476543b3c3e4c9e<div align="center">
+<div align="center">
 
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 
@@ -8,4 +8,4 @@ d8a3975be4598d50925a6d1a6476543b3c3e4c9e<div align="center">
 
   <a href="https://aistudio.google.com/apps">Start building</a>
 
-</div>
+</div>https://g.dev/nisaraistudio
